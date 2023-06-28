@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Take a look around and explore my projects.
 
 ## About Me
 
-I'm a Student with a love for coding and creating amazing things. My goal is to leverage technology to solve real-world problems and make a positive impact. When I'm not immersed in lines of code, you can find me exploring the great outdoors or enjoying a good cup of coffee.
+I'm a Student🎓 with a love for coding👨‍💻 and creating amazing things. My goal is to leverage technology to solve real-world problems and make a positive impact. When I'm not immersed in lines of code, you can find me exploring the great outdoors🏂 or enjoying a good cup of coffee☕.
 
 ## Stats
 [![wakatime](https://wakatime.com/badge/user/d079a729-9e7c-468f-a590-66097a17ca56.svg?style=flat)](https://wakatime.com/@ashwanthbalakrishnan)
